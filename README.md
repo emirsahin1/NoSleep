@@ -11,7 +11,7 @@ Software that detects when a person falls asleep and alerts them with a loud ala
 - Features a custom trained drowsiness detecion AI to dynamically make the detection more or less sensitive.
 - The program's trigger sensitivty can be adjusted during operation and is saved every run. 
 
-## Example Detecion
+## Example Detection
 <p float="left">
 <img src="readme_imgs/Detection_Example.jpg" width="650"/>
 </p>
