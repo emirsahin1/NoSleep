@@ -19,7 +19,7 @@ Software that detects when a person falls asleep and alerts them with a loud ala
 
 
 ## Tech Stack
-OpenCV, YoloV5, Dlib 
+Python, OpenCV, YoloV5, Dlib 
 
 
 
